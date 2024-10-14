@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "age": 28,
+    "address": {
+      "street": "123 Elm St",
+      "city": "Lagos",
+      "country": "Nigeria"
+    },
+    "isVerified": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "age": 32,
+    "address": {
+      "street": "456 Oak St",
+      "city": "New York",
+      "country": "USA"
+    },
+    "isVerified": false
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alicejohnson@example.com",
+    "age": 25,
+    "address": {
+      "street": "789 Pine St",
+      "city": "London",
+      "country": "UK"
+    },
+    "isVerified": true
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "email": "bobbrown@example.com",
+    "age": 45,
+    "address": {
+      "street": "101 Maple St",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "isVerified": true
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "email": "charliedavis@example.com",
+    "age": 37,
+    "address": {
+      "street": "202 Cedar St",
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "isVerified": false
+  }
+]
